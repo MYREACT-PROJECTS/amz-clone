@@ -4,6 +4,7 @@ import {useStateValue} from '../Components/StateProvider';
 import { db,auth } from '../firebase';
 
 
+
 export default function Product({ id, title, image, price, rating,saved }) {
     const [processing,setProcessing]= useState(true);
     const [{basket,favourite,user},dispatch] = useStateValue();

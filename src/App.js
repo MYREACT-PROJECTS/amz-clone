@@ -17,7 +17,7 @@ import Favourite from "./Components/Favourite";
 
 const promise =loadStripe(
 
-  "pk_test_51I9ccyFwsScMw21iVJwNt90i0X5TPibvpeYBACTiYK5zZZpJJuotL0Khifso5cljh0JgeW0BGaP4vZwJk5JHV7Vs00TZHkPOP3"
+  "pk_test_51IVeyRABkjwGvjrElqvzlrGAxmtgcc1CBDpGdQy5MGYPMOJ0KcecHLxNpmtHyTKNfGaa42MntYGDjHPjQS9Ft7VW00xpnmbzFY"
 );
 
   
